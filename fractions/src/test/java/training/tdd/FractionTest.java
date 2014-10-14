@@ -1,7 +1,7 @@
-package com.sabre.training.tdd;
+package training.tdd;
 
-import com.sabre.training.Fraction;
 import org.junit.Test;
+import training.Fraction;
 
 import static org.junit.Assert.*;
 

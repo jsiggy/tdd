@@ -1,4 +1,4 @@
-package com.sabre.training;
+package training;
 
 public class Fraction {
    private int numerator;
